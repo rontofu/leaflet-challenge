@@ -1,0 +1,27 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.leaflet-popup-content {
+  text-align: center;
+}
+
+.legend {
+  line-height: 25px;
+  color: black;
+}
+
+.legend i {
+  width: 25px;
+  height: 25px;
+  float: left;
+  margin-right: 25px;
+  opacity: 0.9;
+}
